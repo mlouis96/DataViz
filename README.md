@@ -7,5 +7,5 @@ I am Monica, a designer that enjoys taking apart complex data to find trends and
 # What I Hope to Learn 
 Tools and techniques to better dissect and represent data 
 
-# Portfolio
-Check out my work here 
+# Data Visualizations
+Check out some of my recent work here:

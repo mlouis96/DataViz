@@ -15,11 +15,12 @@
 
 ## Part 3: Experimenting with Flourish
 
+###### To try another visual style I used Treemap, in order to cluster the countries by range I introduced another value in the data called category, in the category column I was able to arrange the countries into 5 ranges ( 0-50, 50-100 and so forth), this also helped to color the values so that the countries with the highest debt ratios were made darker. The treemap visual helps cluster the countries by category and see the ratios of each country against each other using size are reference. 
+
 <div class="flourish-embed flourish-hierarchy" data-src="visualisation/11736712"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 
-
-## Part 3: Conclusion
+## Part 4: Conclusion
 ###### The different methods of data visualization help us highlight the data differently. In the first chart from the OECD website, we are able to compare the government debt for each country by year. In the second visualization using a grid of charts we are able to see the change in debt ratio for each country. The grid of lines is helpful to avoid clutter and obscurity that occurs when using one chart with multiple series of data. By splitting the data into multiple charts we are better able to see the trends for each country. In the third visualization, the chart uses size and color to convey the debt values as ranges. This helps the viewer immediately discern which country has the highest debt to gdp ratio. Each visualization has its perks, depending on what you are trying to say through the data the different visualizations can be used accordingly.
 
 

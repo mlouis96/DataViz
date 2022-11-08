@@ -12,4 +12,4 @@ Check out some of my recent work here:
 
 [Government Debt Visualization](/governmentdebt.md)
 
-[Trust In Media](/Trust in media)
+[Trust In Media](/trustinmedia.md)

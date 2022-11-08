@@ -9,3 +9,7 @@ Tools and techniques to better dissect and represent data
 
 # Data Visualizations
 Check out some of my recent work here:
+
+#Government Debt 
+
+<iframe src="https://data.oecd.org/chart/6SmD" width="860" height="645" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><a href="https://data.oecd.org/chart/6SmD" target="_blank">OECD Chart: General government debt, Total, % of GDP, Annual, 2021</a></iframe>

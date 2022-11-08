@@ -11,3 +11,5 @@ Tools and techniques to better dissect and represent data
 Check out some of my recent work here:
 
 [Government Debt Visualization](/governmentdebt.md)
+
+[Government Debt Visualization](/Trust in media)

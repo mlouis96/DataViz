@@ -15,6 +15,7 @@
 
 ## Part 3: Experimenting with Flourish
 
+<div class="flourish-embed flourish-hierarchy" data-src="visualisation/11736712"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 
 

@@ -10,3 +10,4 @@ Tools and techniques to better dissect and represent data
 # Data Visualizations
 Check out some of my recent work here:
 
+[Government Debt Visualization](/governmentdebt.md)

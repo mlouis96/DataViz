@@ -14,4 +14,4 @@ Check out some of my recent work here:
 
 [Trust In Media](/trustinmedia.md)
 
-{Critique By Design](/DataCritique.md)
+[Critique By Design](/DataCritique.md)

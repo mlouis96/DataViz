@@ -13,3 +13,5 @@ Check out some of my recent work here:
 [Government Debt Visualization](/governmentdebt.md)
 
 [Trust In Media](/trustinmedia.md)
+
+{Critique By Design](/DataCritique.md)

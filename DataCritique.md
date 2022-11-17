@@ -10,7 +10,11 @@
 
 ## Step 2: Critiquing the Data Visualization
 
+![critique](https://user-images.githubusercontent.com/117247447/202366471-a5a076d7-71cc-4128-9a88-d17f76aa639b.jpg)
+
 ###### 
+
+
 
 ## Step 3: Sketching Solutions
 
@@ -19,12 +23,18 @@
 For the test I used the data for one year, I wanted to create a visual that would showcase imporatnet countries while also hihglihgting the regionaly data
 ![ib](https://user-images.githubusercontent.com/117247447/202358517-2add1668-676c-4202-9c99-f35d27835796.jpg)
 ![idea 4](https://user-images.githubusercontent.com/117247447/202358539-0530181a-b342-4267-96a2-4d23099b09e5.jpg)
+![idea 3](https://user-images.githubusercontent.com/117247447/202363180-5768ba3e-1fda-41b5-bd45-02d9e5d2968b.jpg)
+
 
 
 
 ## Step 4: Testing Solutions
 
 ###### I tested the new visualizations with two individuals:
+
+![image](https://user-images.githubusercontent.com/117247447/202371620-177b3ea4-c2c8-4b72-a233-cda56ede8f2e.png)
+![image](https://user-images.githubusercontent.com/117247447/202371704-3acafedf-81b4-45e5-a29e-8b801f65a467.png)
+
 
 
 

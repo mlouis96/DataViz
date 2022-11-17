@@ -44,3 +44,8 @@
 ## Step 5: Building the Final Solution 
 
 ###### 
+<div class="flourish-embed flourish-hierarchy" data-src="visualisation/11848891"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
+
+<div class="flourish-embed flourish-chart" data-src="visualisation/11852935"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+

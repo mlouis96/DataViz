@@ -10,17 +10,19 @@
 
 ## Step 2: Critiquing the Data Visualization
 
-![critique](https://user-images.githubusercontent.com/117247447/202366471-a5a076d7-71cc-4128-9a88-d17f76aa639b.jpg)
+![image](https://user-images.githubusercontent.com/117247447/202372675-38479056-a951-4482-9555-17d7f8a752e6.png)
 
-###### 
 
+###### The data visualization for US Immigration Flows, it is interesting to look at at and draws the viewer in to learn more. I thought it conveyed overall immigration data well through the shape of the graph.  Some things I believe could be improved: It was hard for me to decipher information about each region. They  were multiple bold colors that were used. The way regions were stacked onto each other made comparison slightly difficult as well. I would change the way the regions were represented to make it easier to compare, as well as find ways to depict the whole story by incorporating more data into the visual, such as including important countries in each region.  One more piece that I would try to improve is the relatability in color between visual 1 &2, the color of the regions and countries don't co-relate. The strong part of the visual, for me was the engagement, I felt compelled to learn more about why there were sudden increases and decreases in immigration. I felt the Aesthetics and Completeness could be improved, color selection could bre modifed since the current sheme has bold colors that look like they are clashing with one another
+
+###### The primary audience would be individuals interested in learning about immigration. It could also be used by the government to analyze trends. I think this visual is somewhat effective in creating a story for the audience, it touched upon a few key points such as overall immigration by region, and allows for us to visualize what events may have contributed to certain immigration flows. I would imagine a more complete data visualization with info on individual country trends within regions might be more compelling to present as well. For example while looking through the dataset I was able to find that Mexico contributed to the most immigration flow within the North America region, but the visual clusters this info under North America (for first graph). Highlighting certain pieces of information like this helps tell the whole story.
 
 
 ## Step 3: Sketching Solutions
 
 ###### I used a part of the dataset to test ideas that I had to make sure what I was envisioning would work with the larger dataset, and then I could commit to re-formating and cleaning up the entire dataset 
 
-For the test I used the data for one year, I wanted to create a visual that would showcase imporatnet countries while also hihglihgting the regionaly data
+###### For the test I used the data for one year, I wanted to create a visual that would showcase imporatnet countries while also hihglihgting the regionaly data
 ![ib](https://user-images.githubusercontent.com/117247447/202358517-2add1668-676c-4202-9c99-f35d27835796.jpg)
 ![idea 4](https://user-images.githubusercontent.com/117247447/202358539-0530181a-b342-4267-96a2-4d23099b09e5.jpg)
 ![idea 3](https://user-images.githubusercontent.com/117247447/202363180-5768ba3e-1fda-41b5-bd45-02d9e5d2968b.jpg)

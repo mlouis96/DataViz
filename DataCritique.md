@@ -43,7 +43,16 @@
 
 ## Step 5: Building the Final Solution 
 
-###### For the final solution I ended up making two visuals, since I encountered difficulties creating a dashboard. The first visual shows a gird of line charts that is sorted by region. This allows individuals to pick up on specific country trends. The second visual is a bubble chart that plays allowing viewers to see the shifts in real time and explore each region by clicking into the bubbles. 
+###### The first step involved reformatting the data, and added a region category 
+
+![image](https://user-images.githubusercontent.com/117247447/202714589-7bcf671e-2c83-4ed6-8aa6-a26ffc99beaf.png)
+
+###### For the final visual I ended up making two, since I encountered difficulties creating a dashboard. The first visual shows a gird of line charts that is sorted by region. This allows individuals to pick up on specific country trends. The second visual is a bubble chart that plays allowing viewers to see the shifts in real time and explore each region by clicking into the bubbles. 
+
+
+
+![image](https://user-images.githubusercontent.com/117247447/202714589-7bcf671e-2c83-4ed6-8aa6-a26ffc99beaf.png)
+
 
 
 <div class="flourish-embed flourish-hierarchy" data-src="visualisation/11848891"><script src="https://public.flourish.studio/resources/embed.js"></script></div>

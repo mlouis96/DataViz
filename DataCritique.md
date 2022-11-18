@@ -37,7 +37,10 @@
 ![image](https://user-images.githubusercontent.com/117247447/202371620-177b3ea4-c2c8-4b72-a233-cda56ede8f2e.png)
 ![image](https://user-images.githubusercontent.com/117247447/202371704-3acafedf-81b4-45e5-a29e-8b801f65a467.png)
 
-###### While testing the visuals I made I also showed the individuals the original visualization to gauge their reaction, and I found that both users enjoyed looking at the data against the time in a linear format because the highs and the lows could be seen immediately. Using their feedback I thought it might be interesting to have two visuals that complement one another, a linear graph with all the countries, but a yearly slice sunburst that was more detailed.
+###### While testing the visuals, I made I also showed the individuals the original visualization to gauge their reactio., I found that both users enjoyed looking at the data against the time ,in a linear format, because the highs and the lows could be seen immediately. Using their feedback I thought it might be interesting to have two visuals that complement one another, a linear graph with all the countries, but a yearly slice sunburst that was more detailed.
+
+![image](https://user-images.githubusercontent.com/117247447/202715604-f5049749-5470-4fe4-a18b-0323013607b6.png)
+
 
 
 

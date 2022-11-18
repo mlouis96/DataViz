@@ -51,9 +51,6 @@
 
 
 
-![image](https://user-images.githubusercontent.com/117247447/202714589-7bcf671e-2c83-4ed6-8aa6-a26ffc99beaf.png)
-
-
 
 <div class="flourish-embed flourish-hierarchy" data-src="visualisation/11848891"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 

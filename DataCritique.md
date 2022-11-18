@@ -22,7 +22,7 @@
 
 ###### I used a part of the dataset to test ideas that I had to make sure what I was envisioning would work with the larger dataset, and then I could commit to re-formating and cleaning up the entire dataset 
 
-###### For the test I used the data for one year, I wanted to create a visual that would showcase imporatnet countries while also hihglihgting the regionaly data
+###### For the test I used the data for one year, I wanted to create a visual that would showcase important countries while also highlighting the regionally data
 ![ib](https://user-images.githubusercontent.com/117247447/202358517-2add1668-676c-4202-9c99-f35d27835796.jpg)
 ![idea 4](https://user-images.githubusercontent.com/117247447/202358539-0530181a-b342-4267-96a2-4d23099b09e5.jpg)
 ![idea 3](https://user-images.githubusercontent.com/117247447/202363180-5768ba3e-1fda-41b5-bd45-02d9e5d2968b.jpg)
@@ -37,13 +37,15 @@
 ![image](https://user-images.githubusercontent.com/117247447/202371620-177b3ea4-c2c8-4b72-a233-cda56ede8f2e.png)
 ![image](https://user-images.githubusercontent.com/117247447/202371704-3acafedf-81b4-45e5-a29e-8b801f65a467.png)
 
-
+###### While testing the visuals I made I also showed the individuals the original visualization to gauge their reaction, and I found that both users enjoyed looking at the data against the time in a linear format because the highs and the lows could be seen immediately. Using their feedback I thought it might be interesting to have two visuals that complement one another, a linear graph with all the countries, but a yearly slice sunburst that was more detailed.
 
 
 
 ## Step 5: Building the Final Solution 
 
-###### 
+###### For the final solution I ended up making two visuals, since I encountered difficulties creating a dashboard. The first visual shows a gird of line charts that is sorted by region. This allows individuals to pick up on specific country trends. The second visual is a bubble chart that plays allowing viewers to see the shifts in real time and explore each region by clicking into the bubbles. 
+
+
 <div class="flourish-embed flourish-hierarchy" data-src="visualisation/11848891"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 

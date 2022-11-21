@@ -11,4 +11,7 @@
 
 <div class="flourish-embed flourish-hierarchy" data-src="visualisation/11892808"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
+###### Source: This is a subset of the dataset of the same name available in the UCI Machine Learning Repository
+The collected data relates to a period of 8 months, between November 2015 and July 2016, accounting for about 100,000 news items on four different topics: economy, microsoft, obama and palestine.
+
 

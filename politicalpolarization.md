@@ -1,7 +1,7 @@
 
 # Why Politicians should be banned from Social Media
 
-###### Note: the date visuals are still in progress, I am currently in the process of scraping data from Twitter to do a sentiment analysis. Some of the other date visulas here are made to show the prevalence of political messaging on social media and impacts.
+###### Note: the date visuals are still in progress, I am currently in the process of scraping data from Twitter to do a sentiment analysis. Some of the other date visuals here are made to show the prevalence of political messaging on social media and impacts
 
 
 ###### A look at politcians on Twitter

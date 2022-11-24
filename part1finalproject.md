@@ -23,6 +23,7 @@ Setup:
 Misinformation and hate speech is rampant on social media.
 
 Conflict: 
+
 Its impact on political messaging is creating polarization
 Increase in offline hate crimes
 There is a long term behavior change

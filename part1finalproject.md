@@ -42,6 +42,11 @@ Some imital sketches made to depict the potential storyboard, this may change as
 
 ![Untitled_Artwork (12)](https://user-images.githubusercontent.com/117247447/203723964-c3fe8931-dc78-456f-9acb-0b878ef7835f.jpg)
 
+Using one of the datasets I was able to create an example for the types of visuals that might be helpful. In this visual you can see that on Facebook there is a much higher proportion of headlines pertaining to politics that are being shared. Of the sources that are shared, Breitbart News articles were shared the most on Facebook. Breitnart has published a number of conspiracy theories and intentionally misleading stories.
+
+![image](https://user-images.githubusercontent.com/117247447/203725532-a4140cbe-e72f-4f20-8d2e-d183dadd70d5.png)
+
+
 ## The data
 
 Preliminary sources that I have started to collect, theses in include quantitative datasets
@@ -59,7 +64,7 @@ Some data that is qualitative that I can work on make visuals for
 
 | Article/Paper Title | How will it be Used | source  |
 | Double Standards in Social Media Content Moderation | Article has info that can be used to show algorithm bias, and existing moderation methods| [Link Here](https://www.brennancenter.org/our-work/research-reports/double-standards-social-media-content-moderation/)  |
-| Polarized Information Ecosystems can Reorganize Social Networks| Data to illustrate polarization | [Link Here]([https://www.kaggle.com/datasets/rishidamarla/social-media-posts-from-us-politicians/](https://www.pnas.org/doi/10.1073/pnas.2102147118/) |
+| Polarized Information Ecosystems can Reorganize Social Networks| Data to illustrate polarization | [Link Here](https://www.pnas.org/doi/10.1073/pnas.2102147118/) |
 | Social Media Effects| Information from this article can be used to illustrate polarization and bias | [Link Here](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7343248//) |
 
 

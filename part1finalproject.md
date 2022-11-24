@@ -58,9 +58,9 @@ Preliminary sources that I have started to collect, theses in include quantitati
 Some data that is qualitative that I can work on make visuals for 
 
 | Article/Paper Title | How will it be Used | source  |
-| Double Standards in Social Media Content Moderation | Article has info that can be used to show algorithm bias, and existing moderation methods| https://www.brennancenter.org/our-work/research-reports/double-standards-social-media-content-moderation  |
-| Social Media Posts from US Politicians| This data will be used to analyze bias, and types of messaging by politcans   | https://www.kaggle.com/datasets/rishidamarla/social-media-posts-from-us-politicians |
-| Social Media Effects| Information from this article can be used to illustrate polarization and bias | https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7343248/ |
+| Double Standards in Social Media Content Moderation | Article has info that can be used to show algorithm bias, and existing moderation methods| [Link Here](https://www.brennancenter.org/our-work/research-reports/double-standards-social-media-content-moderation/)  |
+| Polarized Information Ecosystems can Reorganize Social Networks| Data to illustrate polarization | [Link Here]([https://www.kaggle.com/datasets/rishidamarla/social-media-posts-from-us-politicians/](https://www.pnas.org/doi/10.1073/pnas.2102147118/) |
+| Social Media Effects| Information from this article can be used to illustrate polarization and bias | [Link Here](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7343248//) |
 
 
 

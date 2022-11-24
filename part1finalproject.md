@@ -44,7 +44,7 @@ Social Media platforms need to take better action to prevent hate speech and mis
 
 Preliminary sources that I have started to collect, theses in include quantitative datasets
 
-| Date Title | How will it be Used | source |
+| Date Title | How will it be Used | Source |
 | US Politicians Political Dataset | This data will be used to show the number of politicians using social media platforms | [Link Here](https://www.kaggle.com/datasets/mrmorj/us-politicians-twitter-dataset/)  |
 | Social Media Posts from US Politicians| This data will be used to analyze bias, and types of messaging by politcans | [Link Here](https://www.kaggle.com/datasets/rishidamarla/social-media-posts-from-us-politicians/) |
 | How News Appears on Social Media | The data needs to be tagged by looking at words used in headlines, the idea for this dataset is to find patterns in the ways headlines are communicated in order to see if there's variations is headlines in traditional media vs. social media | [Link Here](https://www.kaggle.com/datasets/socialmedianews/how-news-appears-on-social-media/) |

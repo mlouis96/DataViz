@@ -46,9 +46,9 @@ Preliminary sources that I have started to collect, theses in include quantitati
 
 | Date Title | How will it be Used | source  |
 | US Politicians Political Dataset | This data will be used to show the number of politicians using social media platforms | https://www.kaggle.com/datasets/mrmorj/us-politicians-twitter-dataset  |
-| Social Media Posts from US Politicians| This data will be used to analyze bias, and types of messaging by politcans   | https://www.kaggle.com/datasets/rishidamarla/social-media-posts-from-us-politicians |
+| Social Media Posts from US Politicians| This data will be used to analyze bias, and types of messaging by politcans  | https://www.kaggle.com/datasets/rishidamarla/social-media-posts-from-us-politicians |
 | How News Appears on Social Media
-| Show file differences that haven't been staged | The data needs to be tagged by looking at words used in headlines, the idea for this dataset is to find patterns in the ways headlines are communicated in order to see if there's variations is headlines in traditional media vs. social media. | https://www.kaggle.com/datasets/socialmedianews/how-news-appears-on-social-media|
+| Show file differences that haven't been staged, the data needs to be tagged by looking at words used in headlines, the idea for this dataset is to find patterns in the ways headlines are communicated in order to see if there's variations is headlines in traditional media vs. social media. | https://www.kaggle.com/datasets/socialmedianews/how-news-appears-on-social-media |
 
 
 Some data that is qualitative that I can work on make visuals for 

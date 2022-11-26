@@ -47,7 +47,7 @@ Using one of the datasets I was able to create an example for the types of visua
 
 ## The data
 
-Preliminary sources that I have started to collect, theses in include quantitative datasets
+Preliminary sources that I have started to collect, these include quantitative datasets:
 
 | Date Title | How will it be Used | Source |
 | US Politicians Political Dataset | This data will be used to show the number of politicians using social media platforms | [Link Here](https://www.kaggle.com/datasets/mrmorj/us-politicians-twitter-dataset/)  |
@@ -58,7 +58,7 @@ Preliminary sources that I have started to collect, theses in include quantitati
 
 
 
-Some data that is qualitative that I can work on make visuals for 
+Some data that is qualitative that I can work on to make visuals for: 
 
 | Article/Paper Title | How will it be Used | source  |
 | Double Standards in Social Media Content Moderation | Article has info that can be used to show algorithm bias, and existing moderation methods| [Link Here](https://www.brennancenter.org/our-work/research-reports/double-standards-social-media-content-moderation/)  |

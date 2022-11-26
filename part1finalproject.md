@@ -36,7 +36,7 @@ Social Media platforms need to take better action to prevent hate speech and mis
 
 ## Initial sketches
 
-Some imital sketches made to depict the potential storyboard, this may change as a find more/ don't find relevant data
+Some initial sketches made to depict the potential storyboard, this may change as I find more/don't find relevant data
 
 ![Untitled_Artwork (12)](https://user-images.githubusercontent.com/117247447/203723964-c3fe8931-dc78-456f-9acb-0b878ef7835f.jpg)
 

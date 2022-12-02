@@ -50,7 +50,7 @@ Was there anything you wanted to learn more about after going through the story?
 
 # Key Takeaways 
 
-While presentating I noticed some disconnects in certain sections. The case on 
+While presentating I noticed some disconnects in certain sections overall, which I will work on developing.
 
 ###### Male 24
 Felt that the order could be modified to highlight more of why specifically political content creates or activates hate crimes. Liked seeing the comparison in the types of political headlines varied on LinkedIn vs Facebook. Also posed the question that the user demographics could play a part in how the content is shared, could there be different methods for different age groups.

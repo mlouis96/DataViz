@@ -8,6 +8,7 @@ Some information is still to be added, as I figure out the best way to discuss p
 
 
 # Wireframe
+This is a rough outline of the visuals and the content I wanted to touch upon. There are a few more elements I need to think through 
 ![Why Conten Moderation Is Important for_page-0001](https://user-images.githubusercontent.com/117247447/205210036-28bcccb8-298f-45ca-8073-9a0ec91692cb.jpg)
 ![Why Conten Moderation Is Important for_page-0002](https://user-images.githubusercontent.com/117247447/205210063-46f8bc24-04e1-48cc-846d-d26c3eac6ea5.jpg)
 ![Why Conten Moderation Is Important for_page-0003](https://user-images.githubusercontent.com/117247447/205210094-c0893b4b-f18c-41a6-ad3e-316800e2cc63.jpg)

@@ -8,9 +8,13 @@ Some information is still to be added, as I figure out the best way to discuss p
 
 
 # Wireframe
-![IMG_2401](https://user-images.githubusercontent.com/117247447/205207855-66d38627-d012-4807-b24f-34825924441d.PNG)
-
-
+![Why Conten Moderation Is Important for_page-0001](https://user-images.githubusercontent.com/117247447/205210036-28bcccb8-298f-45ca-8073-9a0ec91692cb.jpg)
+![Why Conten Moderation Is Important for_page-0002](https://user-images.githubusercontent.com/117247447/205210063-46f8bc24-04e1-48cc-846d-d26c3eac6ea5.jpg)
+![Why Conten Moderation Is Important for_page-0003](https://user-images.githubusercontent.com/117247447/205210094-c0893b4b-f18c-41a6-ad3e-316800e2cc63.jpg)
+![Why Conten Moderation Is Important for_page-0004](https://user-images.githubusercontent.com/117247447/205210117-3325706c-38cd-4510-9bd1-3c1c325b4c46.jpg)
+![Why Conten Moderation Is Important for_page-0005](https://user-images.githubusercontent.com/117247447/205210142-7aa4384e-106e-4a72-a989-14b390443b26.jpg)
+![Why Conten Moderation Is Important for_page-0006](https://user-images.githubusercontent.com/117247447/205210166-47ade850-f9aa-49c3-9877-75de8b3e772a.jpg)
+![Why Conten Moderation Is Important for_page-0007](https://user-images.githubusercontent.com/117247447/205210185-9fa632de-714a-4e56-9c5e-77c962758c3e.jpg)
 
 # User Research 
 

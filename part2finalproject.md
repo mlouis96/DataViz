@@ -60,6 +60,8 @@ Felt that a compelling argument should be built around showing how content moder
 
 ###### Female 27
 
+Understood the main message, but suggested the arrangement of the visuals could be different. Thought the political side could be elaborated on upfront and then the effects on biases and examples could be shared afterwards as supporting pieces to the main argument.
+
 
 Limitations on lack of fidelity of the visuals could have also played a part in how the overall story was perceived. 
 

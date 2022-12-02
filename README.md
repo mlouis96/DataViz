@@ -17,3 +17,5 @@ Check out some of my recent work here:
 [Critique By Design](/DataCritique.md)
 
 [Part 1: Final Project](/part1finalproject.md)
+
+[Part 2: Final Project](/part2finalproject.md)

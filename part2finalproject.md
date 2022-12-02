@@ -14,7 +14,8 @@ Some information is still to be added, as I figure out the best way to discuss p
 ![Why Conten Moderation Is Important for_page-0004](https://user-images.githubusercontent.com/117247447/205210117-3325706c-38cd-4510-9bd1-3c1c325b4c46.jpg)
 ![Why Conten Moderation Is Important for_page-0005](https://user-images.githubusercontent.com/117247447/205210142-7aa4384e-106e-4a72-a989-14b390443b26.jpg)
 ![Why Conten Moderation Is Important for_page-0006](https://user-images.githubusercontent.com/117247447/205210166-47ade850-f9aa-49c3-9877-75de8b3e772a.jpg)
-![Why Conten Moderation Is Important for_page-0007](https://user-images.githubusercontent.com/117247447/205210185-9fa632de-714a-4e56-9c5e-77c962758c3e.jpg)
+![Why Conten Moderation Is Important for_page-0007](https://user-images.githubusercontent.com/117247447/205210448-37cfb7ea-43c4-4ccc-aeaf-46d8579cb932.jpg)
+
 
 # User Research 
 
@@ -25,6 +26,18 @@ I identified three users:
 Male 24, an individual with a background in philosophy 
 Female 26, a graduate student with a background in engineering
 Female 27, an individual with a background in design
+
+The interview protocol:
+
+What is the main message of this story? what is communicated well, what could be better?
+Do the visuals complement the story?
+Do you have another other feedback?
+
+After the entire presentation, I also asked the following questions:
+
+Did you feel like the flow of the story made sense? 
+What were parts you wish were different? 
+Was there anything you wanted to learn more about after going through the story? (to understand if there were more points I could touch upon)
 
 
 # Key Takeaways 

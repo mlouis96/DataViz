@@ -17,8 +17,13 @@ This is a rough outline of the visuals and the content I wanted to touch upon. T
 ![Why Conten Moderation Is Important for_page-0006](https://user-images.githubusercontent.com/117247447/205210166-47ade850-f9aa-49c3-9877-75de8b3e772a.jpg)
 ![Why Conten Moderation Is Important for_page-0007](https://user-images.githubusercontent.com/117247447/205210448-37cfb7ea-43c4-4ccc-aeaf-46d8579cb932.jpg)
 
+Some visuals I worked on developing higher fidelities  
+<div class="flourish-embed flourish-hierarchy" data-src="visualisation/11892808"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
+<div class="flourish-embed flourish-hierarchy" data-src="visualisation/11893118"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 # User Research 
+
 
 My target audience is both the average social media user and platform designers. I believe it would be important to emphasize the way platforms work, by being informed individuals can make better decisions on how they obtain and share their news.
 
@@ -29,6 +34,8 @@ Female 26, a graduate student with a background in engineering
 Female 27, an individual with a background in design
 
 The interview protocol:
+
+Since I had to incorporate a few more parts into my visual I narrated the story while showing the relevant visuals to the users.
 
 What is the main message of this story? what is communicated well, what could be better?
 Do the visuals complement the story?
@@ -43,7 +50,24 @@ Was there anything you wanted to learn more about after going through the story?
 
 # Key Takeaways 
 
+While presentating I noticed some disconnects in certain sections. The case on 
+
+###### Male 24
+Felt that the order could be modified to highlight more of why specifically political content creates or activates hate crimes. Liked seeing the comparison in the types of political headlines varied on LinkedIn vs Facebook. Also posed the question that the user demographics could play a part in how the content is shared, could there be different methods for different age groups.
+
+###### Female 26
+Felt that a compelling argument should be built around showing how content moderation is helpful since there is an example on Myanmmar showing the effects of lack of moderation.
+
+###### Female 27
+
+
+Limitations on lack of fidelity of the visuals could have also played a part in how the overall story was perceived. 
+
+
+
 # Updates for Next Iteration 
+
+I need to add headlines to the visuals that help convey the message a bit more clearly, and work on delivering a more solid story. Some more data needs to be added regarding the positive and negative effects of moderation to make the story have multiple perspectives. 
 
 
 

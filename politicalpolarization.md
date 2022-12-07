@@ -40,6 +40,9 @@ and used a scale from -1 to 1 to classify the posts as negative, neutral or posi
 ![image](https://user-images.githubusercontent.com/117247447/206211062-ada3ef25-c1b8-481c-840a-cc2046f99fee.png)
 ![image](https://user-images.githubusercontent.com/117247447/206211118-6ae83e14-ff40-4c4f-a35b-f1f742f9cdf9.png)
 
+After classifying the headlines it was found 49.8% of headlines were found to be negative 
+
+![Count of Scale](https://user-images.githubusercontent.com/117247447/206229642-163504e1-ac57-4827-be80-4a47cb28ff6d.png)
 
 
 

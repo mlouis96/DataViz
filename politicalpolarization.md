@@ -1,6 +1,10 @@
 
 # Why Politicians should be banned from Social Media
 
+Find the final presentation here: https://carnegiemellon.shorthandstories.com/political-content-moderation-on-social-media-needs-to-change/index.html
+
+this Github page documents the processes used to create the visuals.
+
 ![image](https://user-images.githubusercontent.com/117247447/206208144-05cf53df-b29f-4d00-963e-a98bfb3cc57d.png)
 
 

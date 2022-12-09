@@ -29,7 +29,7 @@ For this project I believe my primary audience would be people that use social m
 
 I had a lot of fun creating the visuals, my skills in coding are quite limited and so I think it would be great to work on this project with a bigger dataset and more tools. Sentiment analysis is something that I would love to learn more about in the future. It was also fun coming up with a compelling storyline in 1 minute to present to the class.
 
-[Part 1](/part1finalproject.md}
+[Part 1](/part1finalproject.md)
 [Part 2](/part2finalproject.md)
 [Shorthand](/https://carnegiemellon.shorthandstories.com/political-content-moderation-on-social-media-needs-to-change/index.html#group-section-What-can-be-Done-cdwOcaJH4U) 
 

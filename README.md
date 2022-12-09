@@ -19,3 +19,5 @@ Check out some of my recent work here:
 [Part 1: Final Project](/part1finalproject.md)
 
 [Part 2: Final Project](/part2finalproject.md)
+
+[Part 3: Final Project](/part3finalproject.md)

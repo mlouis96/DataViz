@@ -1,7 +1,7 @@
 # Part 3: Putting it All Together 
 In [part 2](/part2finalproject.md) of the project, I wireframed my story and tested the visuals, the last part of the project involved putting everything together using Shorthand to curate all the designed visuals along with the full story.
 
-To view the Shorthand click here.
+[To view the Shorthand click here](/https://carnegiemellon.shorthandstories.com/political-content-moderation-on-social-media-needs-to-change/index.html#group-section-What-can-be-Done-cdwOcaJH4U)
 
 # Implementing User Feedback
 In part 2, I created a wireframes by hand, some of the feedback I got was along building a more cohesive story and framing up more actioale call to action. I created some of my visuals during part 2, but the majority of the visuals had to be developed.
